@@ -24,7 +24,7 @@
 
 #11: If any of the above rules are violated then staff reserves the right to take the necessary action against the offender.
 
-#12: Follow: - Discord Terms of Service and Community Guidelines.
+#12: Follow: - Discord [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 
 #13: Ban Appeal: Click here to appeal.
 
