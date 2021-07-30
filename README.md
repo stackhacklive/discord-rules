@@ -1,7 +1,8 @@
 <div align="center">
     <img src="https://yt3.ggpht.com/ytc/AKedOLSwOKwPBRZtDPbsg8Xal_Ww3IiqG3Q_WJiLhHM=s176-c-k-c0x00ffffff-no-rj-mo" width="128px" style="max-width:100%;">
     <h1>Discord Roles - Team Stackhack</h1>
-    <div
+</div>
+
 #1: Be respectful to everyone.
 
 #2: No Politics talks or topics should be raised.
