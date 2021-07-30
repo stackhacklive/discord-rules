@@ -1,3 +1,7 @@
+ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ![unnamed - Copy](https://user-images.githubusercontent.com/84611341/127670211-1b2a6e79-196c-4cbe-a758-7602345820cc.jpg)
+ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ🔗 ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ**Disord Rules - Team Stackhack**
+
+
 #1: Be respectful to everyone.
 
 #2: No Politics talks or topics should be raised.
@@ -20,4 +24,8 @@
 
 #11: If any of the above rules are violated then staff reserves the right to take the necessary action against the offender.
 
-#12: Follow: - Discord [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+#12: Follow: - Discord Terms of Service and Community Guidelines.
+
+#13: Ban Appeal: Click here to appeal.
+
+#14: Moderation Guidelines: Click here to know more
