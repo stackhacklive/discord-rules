@@ -27,6 +27,6 @@
 
 #12: Follow: - Discord [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 
-#13: Ban Appeal: Click here to appeal.
+#13: Ban Appeal: [Click here to appeal](https://forms.gle/bjSzWjRQXFeKnZWTA).
 
-#14: Moderation Guidelines: Click here to know more
+#14: Moderation Guidelines: [Click here to know more](https://trello.com/b/KpOyYPjn/discord-server-rules-by-xynox).
