@@ -29,4 +29,4 @@
 
 #13: Ban Appeal: [Click here to appeal](https://forms.gle/bjSzWjRQXFeKnZWTA).
 
-#14: Moderation Guidelines: [Click here to know more](https://trello.com/b/KpOyYPjn/discord-server-rules-by-xynox).
+#14: Moderation Guidelines: [Click here to know more](https://trello.com/invite/b/XF2B60QM/b515ea5aa61031ae54403b41ab7d7eb4/discord-rules).
